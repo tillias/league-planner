@@ -1,0 +1,15 @@
+{
+  "league": "Test league",
+  "country": "Germany",
+  "teams": [
+    {
+      "name": "first"
+    },
+    {
+      "name": "second"
+    },
+    {
+      "name": "third"
+    }
+  ]
+}
